@@ -8,7 +8,6 @@
 	<name>FHM Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<javax-activation.version>1.1</javax-activation.version>
@@ -17,8 +16,6 @@
 	</properties>
 
 	<dependencies>
-
-
 		<!-- spring start -->
 		<dependency>
 			<groupId>org.springframework</groupId>
