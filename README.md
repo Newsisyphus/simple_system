@@ -1,4 +1,12 @@
 #1.先建个数据，把sql脚本执行下
+
+##页面效果
+**登陆界面**
+![登陆界面](https://raw.githubusercontent.com/railsbigboy/resource_share/master/java/%E7%99%BB%E9%99%86%E7%95%8C%E9%9D%A2.png)
+**登陆成功之后**
+![登陆成功之后](https://raw.githubusercontent.com/railsbigboy/resource_share/master/java/%E7%99%BB%E9%99%86%E6%88%90%E5%8A%9F%E4%B9%8B%E5%90%8E.png)
+
+##部署过程
 ```
 /*
 Navicat MySQL Data Transfer
